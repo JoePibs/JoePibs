@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on  <a href="https://www.1001pneus.fr/" > 1001Pneus</a>
-- 🌱 I’m currently learning PHP LAravel, Vue JS, Magento & a lot of another tech on O'Clock
+- 🌱 I’m currently working Magento , PHP 7.4, ko.js ... and have experience and Node.js , Vue.js 
 
 My favorites techs : 
 <p>
