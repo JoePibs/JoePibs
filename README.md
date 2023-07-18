@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on  <a href="https://www.1001pneus.fr/" > 1001Pneus</a>
 - 🌱 I’m currently learning PHP LAravel, Vue JS, Magento & a lot of another tech on O'Clock
-- 🦄 I love Unicorn && i try to developp a Twitter for and only for Unicorn 🦄
 
 My favorites techs : 
 <p>
