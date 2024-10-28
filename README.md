@@ -1,32 +1,36 @@
 ### Hi Everybody 👋
 
 
-- 🔭 I’m currently working on  <a href="https://www.1001pneus.fr/" > 1001Pneus</a>
-- 🌱 I’m currently working Magento , PHP 7.4, ko.js ... and have experience and Node.js , Vue.js 
+- 🔭 I’m currently working on  <a href="https://www.lelivrevert.fr" > Le Livre Vert</a> after 2.5 years in 1001Pneus
+- 🌱 I’m currently working Symfony 6, React.js, Shopify, MySQL,GraphQL and various API (Amazon, Emmaus, SellerMania...)  ... and have experience and Node.js , Vue.js, Magento 2.1 à 2.4, MySql, PGSql & GraphQL
+- 80% Back develloper & 20% Front
 
-My favorites techs : 
+My favorites techs and tools: 
 <p>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="PHP 7.x" src="https://img.shields.io/badge/-PHP 7x-FFC0CB?style=flat-square&logo=php&logoColor=black" />
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue-048b9a?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="Magento" src="https://img.shields.io/badge/-Magento-472b2b?style=flat-square&logo=magento&logoColor=000000)" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> 
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="Vanilla.js" src="https://img.shields.io/badge/-Vanilla-yellow?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="jQuey" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff" />
+***
+  
+https://img.shields.io/badge/Symfony-black?logo=symfony
 
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-Yarn-9c0705?style=flat-square&logo=yarn&logoColor=white" />
-
-
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="Vue.js" src="https://img.shields.io/badge/-Vue-048b9a?style=flat-square&logo=vue.js&logoColor=white" />
-<img alt="Vanilla.js" src="https://img.shields.io/badge/-Vanilla-yellow?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="yarn" src="https://img.shields.io/badge/-Yarn-9c0705?style=flat-square&logo=yarn&logoColor=white" />
 
 
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-violet?style=flat-square&logo=Mysql&logoColor=black" />
 
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> 
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="PHP 7.x" src="https://img.shields.io/badge/-PHP 7x-FFC0CB?style=flat-square&logo=php&logoColor=black" />
+
+
 
 </p>
 
